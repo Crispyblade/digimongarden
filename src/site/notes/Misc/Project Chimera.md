@@ -41,7 +41,7 @@ Andrew's Note: Hey I've been reducing said impulsivity!
 ### **PROJECT CHIMERA CANDIDATES**
 
 *   **[[People/North/Genbu/Clawia\|Clawia]] (Operations):**
-*   **[[Norria\|Norria]] (Social):**: On probation
+*   **[[People/Norria\|Norria]] (Social):**: On probation
 *   **[[PEANUT\|PEANUT]] (Medic)**
 *   **[[People/Misc/Holy\|Holy]] (Shapeshifter)**
 *   **[[People/North/Genbu/Hovia\|Hovia]] (Hammer)**:

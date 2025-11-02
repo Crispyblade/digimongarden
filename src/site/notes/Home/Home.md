@@ -11,7 +11,7 @@ Happy new Cycle citizens!
 
 ---
 
-### **The Council Daily** 📰
+### **[[Organizations/Digimon Council\|Digimon Council]] Daily** 📰
 
 _News and Announcements from Across the Sectors!_
 

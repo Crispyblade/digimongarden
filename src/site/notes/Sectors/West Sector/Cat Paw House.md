@@ -18,7 +18,7 @@ Welcome to the [[Sectors/West Sector/Cat Paw House\|Cat Paw House]], where every
 
 Get ready to be mesmerized by the unparalleled artistry of our very own superstar belly dancer:
 
-- **[[Norria\|Norria]]** (Beastmon) - _The Queen of the Dance Floor!_ 💃
+- **[[People/Norria\|Norria]]** (Beastmon) - _The Queen of the Dance Floor!_ 💃
     - Witness her electrifying performances, a blend of raw power and elegant grace that captivates every single guest!
 
 ---
