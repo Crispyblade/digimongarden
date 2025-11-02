@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/sectors/north-sector/north-sector/","created":"2025-08-11T20:59:40.494-04:00"}
 ---
 
+See [[Travel Guides/North Sector Travel Guide\|North Sector Travel Guide]]
+
 The [[Sectors/North Sector/North Sector\|North Sector]] is known for its extremely cold and unwelcoming environment, characterized by dangerous weather with frequent blizzards that block roads. The climate is perpetually cold and snowy. Despite the harsh conditions, the local populace is notably friendly to everyone. The region is excellent for mineral collection and hunting, and its stark landscape possesses a severe beauty. The night sky is consistently clear, filled with stars and the aurora borealis (northern lights).
 
 Important Locations

@@ -3,17 +3,17 @@
 ---
 
 **Type:** Noble Human Family of the [[Sectors/Old Sector/Old Sector\|Old Sector]]  
-**Headquarters:** [[Ono Residence\|Ono Residence]], [[Sectors/Old Sector/Amaterasu/Amaterasu City\|Amaterasu City]]  
+**Headquarters:** [[Sectors/Old Sector/Ono Residence\|Ono Residence]], [[Sectors/Old Sector/Amaterasu/Amaterasu City\|Amaterasu City]]  
 **Founded:** Approximately 60 years ago by [[Sectors/Old Sector/Amaterasu/People/Royalty/The Onos/Haruki Ono\|Haruki Ono]], a samurai from Japan's Azuchi–Momoyama period, who was transported to the Digital World.  
 **Current Patriarch:** [[Sectors/Old Sector/Amaterasu/People/Royalty/The Onos/Haruki Ono\|Haruki Ono]]  
-**Primary Influence:** [[Organizations/House Ono\|House Ono]] controls roughly **70% of all agricultural production** in the [[Sectors/Old Sector/Old Sector\|Old Sector]], making them one of the wealthiest and most politically powerful families.  
-**Loyalty:** Strongly aligned with [[Rudolf Flamewing\|Rudolf Flamewing]] and the aggressive faction of the [[Organizations/Black Phoenix Organization\|Black Phoenix Organization]]. They are bitter opponents of Queen [[Sectors/Old Sector/Amaterasu/People/Royalty/Sabrina Flamewing\|Sabrina Flamewing]] and her loyalists.
+**Primary Influence:** [[Organizations/House Ono\|House Ono]] controls roughly 70% of all agricultural production in the [[Sectors/Old Sector/Old Sector\|Old Sector]], making them one of the wealthiest and most politically powerful families.  
+**Loyalty:** Strongly aligned with [[Sectors/Old Sector/Amaterasu/People/Royalty/Rudolf Flamewing\|Rudolf Flamewing]] and the aggressive faction of the [[Organizations/Black Phoenix Organization\|Black Phoenix Organization]]. They are bitter opponents of Queen [[Sectors/Old Sector/Amaterasu/People/Royalty/Sabrina Flamewing\|Sabrina Flamewing]] and her loyalists.
 
 **Members of House Ono**
 
 - **[[Sectors/Old Sector/Amaterasu/People/Royalty/The Onos/Haruki Ono\|Haruki Ono]]**: Patriarch; no Digimon partner.
 - **[[Sectors/Old Sector/Amaterasu/People/Royalty/The Onos/Isamu Ono\|Isamu Ono]]**: Eldest son; partnered with [[Sectors/Old Sector/Amaterasu/People/Royalty/The Onos/Aurka\|Aurka]] the Magnadramon.
-- **[[Sectors/Old Sector/Amaterasu/People/Royalty/The Onos/Sanyuna Ono\|Sanyuna Ono]]**: Second son; partnered with [[Surarosu\|Surarosu]] the Hackmon.
+- **[[Sectors/Old Sector/Amaterasu/People/Royalty/The Onos/Sanyuna Ono\|Sanyuna Ono]]**: Second son; partnered with [[Sectors/Old Sector/Amaterasu/People/Royalty/The Onos/Surarosu\|Surarosu]] the Hackmon.
 - **[[Sectors/Old Sector/Amaterasu/People/Royalty/The Onos/Shu Ono\|Shu Ono]]**: Third son; partnered with [[Sectors/Old Sector/Amaterasu/People/Royalty/The Onos/Hido\|Hido]] the Ryudamon.
 - **[[Sectors/Old Sector/Amaterasu/People/Royalty/The Onos/Akane Ono\|Akane Ono]]**: Only daughter; no Digimon partner; frequently travels away from the estate.
 
@@ -23,7 +23,7 @@ The Ono children are all of age but remain unmarried due to Haruki's strict trad
 
 - [[Umino\|Umino]] (Gomamon) The elderly, diligent butler of [[Organizations/House Ono\|House Ono]], known for his unwavering respect for tradition and a surprisingly dry wit. He has a nephew, [[Pip\|Pip]] who also serves in the household.
 - [[Pip\|Pip]] (Patamon) A cheerful and often flustered Patamon, eager to please and assist [[Umino\|Umino]]. He handles various household errands with boundless, if sometimes clumsy, energy.
-- [[Roku\|Roku]] (Gotsumon) A silent, stoic butler with an impossibly calm demeanor. He moves with heavy efficiency, managing domestic logistics for [[Sectors/Old Sector/Amaterasu/People/Royalty/The Onos/Isamu Ono\|Isamu Ono]] and remaining impassive amidst any chaos within the [[Ono Residence\|Ono Residence]].
+- [[Roku\|Roku]] (Gotsumon) A silent, stoic butler with an impossibly calm demeanor. He moves with heavy efficiency, managing domestic logistics for [[Sectors/Old Sector/Amaterasu/People/Royalty/The Onos/Isamu Ono\|Isamu Ono]] and remaining impassive amidst any chaos within the [[Sectors/Old Sector/Ono Residence\|Ono Residence]].
 
 **The Ono Residence**
 

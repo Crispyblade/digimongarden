@@ -46,7 +46,7 @@ The powers that shape the political landscape. Be careful who you trust.
 - **[[Organizations/Black Phoenix Organization\|Black Phoenix Organization]]**: An aggressive and militaristic human faction with a deep-seated hatred for the Digimon Council.
 - **[[Organizations/Rapid Response Force\|Rapid Response Force]]**: The official military, police, and rescue force of the united [[Sectors/North Sector/North Sector\|North Sector]].
 - **[[Organizations/Freelancer/Freelancer Guild\|Freelancer Guild]]**: A neutral organization that takes on bounties and missions, serving as a bridge between human and Digimon interests.
-- **[[Phoenix Kingdom\|Phoenix Kingdom]]**: The human government, led by Queen Sabrina, based in [[Sectors/Old Sector/Amaterasu/Amaterasu City\|Amaterasu City]].
+- **[[Sectors/Old Sector/Phoenix Kingdom\|Phoenix Kingdom]]**: The human government, led by Queen Sabrina, based in [[Sectors/Old Sector/Amaterasu/Amaterasu City\|Amaterasu City]].
 
 ---
 
