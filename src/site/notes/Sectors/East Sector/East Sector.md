@@ -16,7 +16,7 @@ The [[Sectors/East Sector/East Sector\|East Sector]] is ruled by [[People/East/G
 - [[Sectors/East Sector/Tyro Village\|Tyro Village]]
 - [[Sectors/East Sector/Kicking Forest\|Kicking Forest]]
 - [[Sectors/East Sector/East Rail Terminal\|East Rail Terminal]]
-- [[Zhuqiaomon Shrine\|Zhuqiaomon Shrine]]
+- [[Sectors/East Sector/Zhuqiaomon Shrine\|Zhuqiaomon Shrine]]
 - [[South and East Terminal Stations\|South and East Terminal Stations]] These are highly secure transit hubs that offer the only safe and direct route between the [[Sectors/South Sector/South Sector\|South Sector]] and [[Sectors/East Sector/East Sector\|East Sector]], bypassing otherwise impassable mountains and treacherous, unmaintained tunnel systems. Travel is facilitated by a single, large, fast gondola, but access requires a specific "Blue Card."
 
 **Food Served in the East Sector**  

@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/sectors/north-sector/genbu-city/","created":"2025-08-11T20:52:21.167-04:00"}
+{"dg-publish":true,"permalink":"/sectors/north-sector/genbu-city/","tags":["City"],"created":"2025-08-11T20:52:21.167-04:00"}
 ---
 
 A large, safe, and heavily fortified city built atop mountains, run by [[People/North/Genbu/Blazer\|Blazer]]. The city is protective, fair, comfortable, and well-defended.
 
 Architecture: Mostly metallic and concrete structures with significant reinforcement. Not much greenery, but the city maintains a charming atmosphere. Roads are dark asphalt with grey sidewalks. The city is covered by a huge transparent energy dome that retains heat while allowing fresh air and light in, protecting it from cold and snow. Many tunnels lead inside the mountain, housing residences and mechanical systems.
 
-During the [[Daily Life/Great Divinity\|Great Divinity]] it served as a crucial defense against the humans.
+During [[Daily Life/The Great Divinity\|The Great Divinity]] it served as a crucial defense against the humans.
 
 
 [[Battle Arena\|Battle Arena]]

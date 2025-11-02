@@ -43,4 +43,4 @@ The Council universally views human partners as a sign of weakness for those at 
 - The [[Organizations/Rapid Response Force\|Rapid Response Force]] is a necessary exception, permitted to operate in the harsh [[Sectors/North Sector/North Sector\|North Sector]] because it effectively defends a vital buffer zone that the Council deems too inefficient to manage directly.
 
 **Key Historical Context**  
-The [[Daily Life/Great Divinity\|Great Divinity]] was a catastrophic war initiated by humans, leading to their subsequent decline. This historical event is the root cause of many Digimon's deep-seated prejudice and distrust toward humanity.
+The [[Daily Life/The Great Divinity\|Daily Life/The Great Divinity]] was a catastrophic war initiated by humans, leading to their subsequent decline. This historical event is the root cause of many Digimon's deep-seated prejudice and distrust toward humanity.
