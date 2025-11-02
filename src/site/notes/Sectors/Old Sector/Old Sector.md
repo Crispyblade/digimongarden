@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sectors/old-sector/old-sector/"}
+{"dg-publish":true,"permalink":"/sectors/old-sector/old-sector/","created":"2025-08-11T20:59:40.494-04:00"}
 ---
 
 **Overview**  

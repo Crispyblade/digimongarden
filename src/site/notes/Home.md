@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/home/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/home/","tags":["gardenEntry"],"created":"2025-11-02T13:12:51.688-05:00"}
 ---
 
 # Welcome to the Digital World!
 
 Hello, Tamers and Freelancers!
 
-Welcome to our shared notes for our adventures in a world of digital monsters. Twenty-five years have passed since the end of the **Great Divinity**, a devastating war that shattered the connections between worlds and left humans and Digimon stranded together in a fragile, often hostile, new reality.
+Welcome to our shared notes for our adventures in a world of digital monsters. Twenty-five years have passed since the end of the **Great Divinity**, a devastating war that shattered the connections between worlds and left humans and Digimon stranded together.
 
 This is a world of sprawling digital landscapes, powerful factions vying for control, and ancient secrets waiting to be unearthed. From the last human bastion of [[Sectors/Old Sector/Amaterasu/Amaterasu City\|Amaterasu City]] to the frozen fortresses of the North, your story is about to unfold.
 
