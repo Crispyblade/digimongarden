@@ -65,6 +65,16 @@ _Connect With Your Fellow Citizens!_
 - **Skill Exchange:** Offer or seek training in various arts and trades! 💪
 
 ---
+### **Market** 🤝
+
+_Looking to buy?_
+
+- **Datapads:** Keep up to date with the newest [[Daily Life/Datapad\|Datapad]] Models!
+- **Digivice Repair:** Did your human break their [[Misc/Digivice\|Digivice]]? Get it fixed here!
+- **Lost & Found:** Missing Digimon or items? Post here for assistance! 🔎
+- **Skill Exchange:** Offer or seek training in various arts and trades! 💪
+
+
 
 **Thank You for Browsing the Digital Net!** 😊  
 **Council Broadcast Secure.**  

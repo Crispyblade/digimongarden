@@ -132,3 +132,4 @@ The clan's diet is rich and varied, drawing from the surrounding jungle and thei
 - **Soups & Stews:** Chicken Soup, Carrot Soup, Tomato Soup, Moss Soup.
 - **Drinks:** Herbal Juice, Tea, Herbal Tea, Sake, Rice Wine, Spring Water.
 - **Snacks & Other:** Trail-Mix, Sunflower Seeds, Kitsune Blessed Salad.
+![Pasted image 20251102160959.png](/img/user/Pasted%20image%2020251102160959.png)
